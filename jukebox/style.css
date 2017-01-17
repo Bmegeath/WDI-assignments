@@ -1,0 +1,78 @@
+body {
+
+	background-image: url('DarkRed.jpg');
+	background-size:cover;
+
+}
+.home {
+	color:#a81c0a;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-shadow: 5px 5px 5px black;
+	font-size: 50px;
+	margin-left: 500px;
+	margin-top: 20px;
+
+
+}
+
+#prev {
+	
+	font-size;
+	margin-left: 200px;
+	margin-top:50px;
+	display: inline-block;
+	
+
+
+}
+
+#next {
+	
+	
+	margin-left:200px;
+	margin-top:50px;
+	display: inline-block;
+	
+
+}
+#play {
+	
+	margin-left: 200px;
+	margin-top:50px;
+	display: inline-block;
+	background-color: lightblue;
+	border-radius: 5px;
+
+
+
+}
+
+#pause {
+	
+	
+	margin-left: 200px;
+	margin-top:50px;
+	display: inline-block;
+	background-color: lightblue;
+	border-radius: 5px;
+
+
+
+
+}
+
+#AlbumArt img{
+	
+	height: 150px;
+	padding-right: 100px;
+	padding-top:75px;
+	padding-left:20px;
+	border-radius: 20px;
+}
+
+
+
+
+
+
+
