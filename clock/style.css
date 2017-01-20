@@ -1,0 +1,21 @@
+body  {
+	font-family: Verdana;
+	font-size: 50px;
+	text-align: center;
+	font-weight: 800;
+	text-shadow: 5px 5px 5px orange;
+	border: ridge 15px #F4A460;
+	border-radius: 5px;
+	background-image:url("ocean.jpg");
+	background-size: cover;
+	
+}
+
+
+#clock {
+	text-shadow: 5px 10px 15px orange;
+	font-size: 230px;
+	position: absolute;
+
+
+}
