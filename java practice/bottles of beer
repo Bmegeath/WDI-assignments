@@ -1,0 +1,13 @@
+var i = 99
+while (i >= 0) {
+  var sentenceOne = i + ' bottles of beer on the wall ' +i+ ' bottles of beer, take one down pass it around ' + (i-1);
+  
+  
+  
+  
+  
+  
+  
+  
+  console.log(sentenceOne) 
+   i--; 
